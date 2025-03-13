@@ -38,3 +38,13 @@ section#tel {
     background-size: 290px 570px;        
     
 }
+
+iframe#tela {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 240px;
+    height: 412px;
+
+}
